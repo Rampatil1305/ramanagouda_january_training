@@ -4,5 +4,5 @@ def count_message(msg, count=0):
     print("Count:", count)
     return count
 c = count_message("Hello")
-c = count_message("Welcome", c)
-c = count_message("Good Morning", c)
+c = count_message("Jai sri ram", c)
+c = count_message("Welcome to India", c)
